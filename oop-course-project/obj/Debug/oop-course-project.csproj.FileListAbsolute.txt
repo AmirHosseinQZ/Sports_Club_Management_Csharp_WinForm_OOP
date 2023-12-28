@@ -1,0 +1,29 @@
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\bin\Debug\oop-course-project.exe.config
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\bin\Debug\oop-course-project.exe
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\bin\Debug\oop-course-project.pdb
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Forms.frmAddCoach.resources
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Forms.frmAddEmployee.resources
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop_course_project.frmAddPlayer.resources
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Forms.frmEdit.resources
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop_course_project.frmMain.resources
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Properties.Resources.resources
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.GenerateResource.cache
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop-course-project.exe
+C:\Users\Amir\Desktop\oop-course-project\oop-course-project\obj\Debug\oop-course-project.pdb
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\bin\Debug\oop-course-project.exe.config
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\bin\Debug\oop-course-project.exe
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\bin\Debug\oop-course-project.pdb
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Forms.frmAddCoach.resources
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Forms.frmAddEmployee.resources
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop_course_project.frmAddPlayer.resources
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Forms.frmEdit.resources
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop_course_project.frmMain.resources
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop_course_project.Properties.Resources.resources
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.GenerateResource.cache
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop-course-project.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop-course-project.exe
+C:\Users\Amir\Desktop\Git Hub\oop-course-project\oop-course-project\obj\Debug\oop-course-project.pdb
